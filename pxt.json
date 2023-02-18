@@ -10,7 +10,8 @@
     "files": [
         "main.ts",
         "README.md",
-        "main.blocks"
+        "main.blocks",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
